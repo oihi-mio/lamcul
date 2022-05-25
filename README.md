@@ -1,3 +1,3 @@
 # lamcul
 
-https://oihi-mio.github.io/lamcul/game.html
+https://oihi-mio.github.io/lamcul/index.html
