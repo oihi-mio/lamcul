@@ -1,5 +1,7 @@
 # lamcul
 
-https://oihi-mio.github.io/lamcul/main/index.html
 
 https://oihi-mio.github.io/lamcul/index.html
+
+input termに型付けしたい項を入力する。
+ラムダ抽象　は、　　Lam 変数 . 項  のように入力する。
